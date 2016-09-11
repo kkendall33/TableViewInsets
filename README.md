@@ -42,3 +42,5 @@ Here is it all together:
     
     }
 
+
+Here's a blog post about it: [CheckoutMyCode](http://checkoutmycode.blogspot.com/2016/09/adjust-uitableview-for-keyboard.html)
