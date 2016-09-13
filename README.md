@@ -24,13 +24,11 @@ Conform to this protocol and when the keyboard comes up your tableviews' insets 
 
 
 
-Here is it all together:
+Here it is all together:
 
 
     class ExampleTableViewController: UITableViewController, TableViewInsetsAdjusting {
     
-      private var inputBar: TextInputBar = TextInputBar.viewFromNib()
-      
       override func viewDidLoad() {
         super.viewDidLoad()
         setupInsetAdjust()
